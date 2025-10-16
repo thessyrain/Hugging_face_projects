@@ -1,0 +1,22 @@
+
+Excited to share my latest project!
+
+I’ve just built a Smart Factory Job Scheduling Visualizer — an interactive web app that helps visualize how factories schedule jobs across machines. 
+
+In a factory, multiple jobs need to be assigned to several machines efficiently. The challenge? Minimizing total completion time, or makespan. My app makes this concept simple and interactive:
+
+✅ Set the number of jobs and machines
+✅ Choose between Greedy and Random scheduling algorithms
+✅ See job assignments in a colorful Gantt chart
+✅ Check the total makespan instantly
+✅ Download schedules as a CSV file for analysis
+
+💻 Try it yourself here: https://huggingface.co/spaces/Thessyrain/smart_factory_scheduler
+
+💡 I’m proud of how this turned out and excited to keep exploring smart manufacturing, optimization, and AI tools!
+
+
+
+
+
+
